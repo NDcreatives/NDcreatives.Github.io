@@ -741,11 +741,11 @@ h6 {
 }
 
 .pricing .price-btn:hover {
-    background: #88B04B;
+    background: #ffc107;
 }
 
 .pricing .features-price-btn {
-    background: #88B04B;
+    background: #ffc107;
 }
 
 .pricing .features-price-btn:hover {
@@ -753,7 +753,7 @@ h6 {
 }
 
 .pricing .features-price .price-plan {
-    background: #88B04B;
+    background: #ffc107;
 }
 
 .pricing .features-price .price-plan p{
