@@ -383,7 +383,7 @@ h6 {
     width: 50px;
     top: 0;
     right: -50px;
-    background: #88B04B;
+    background: #ffc107;
     -webkit-clip-path: polygon(0 100%, 100% 100%, 0 0);
     clip-path: polygon(0 100%, 100% 100%, 0 0);
     z-index: 1;
