@@ -197,7 +197,7 @@ h6 {
 }
 
 .section-header h4 {
-    color: #88B04B;
+    color: #ffc107;
     font-size: 35px;
     font-weight: 500;
     line-height: 35px;
@@ -205,7 +205,7 @@ h6 {
 }
 
 .section-header h2 {
-    color: #88B04B;
+    color: #ffc107;
     font-size: 120px;
     font-weight: 700;
     text-transform: uppercase;
@@ -373,7 +373,7 @@ h6 {
     height: 100px;
     padding: 27px 0;
     text-align: center;
-    background: #88B04B;
+    background: #ffc107;
 }
 
 .service .service-icon::after {
@@ -433,7 +433,7 @@ h6 {
 .call-to-action {
     position: relative;
     padding: 0px 0 200px 0;
-    background: #88B04B;
+    background: #ffc107;
 }
 
 .call-to-action::after {
@@ -542,7 +542,7 @@ h6 {
     text-align: center;
     font-size: 22px;
     color: #ffffff;
-    background: #88B04B;
+    background: #ffc107;
     -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
     clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
 }
@@ -644,7 +644,7 @@ h6 {
     font-size: 25px;
     font-weight: 600;
     letter-spacing: 3px;
-    color: #88B04B;
+    color: #ffc107;
     background: #f6f8fa;
     transition: all .3s;
     z-index: 1;
